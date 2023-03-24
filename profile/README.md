@@ -13,3 +13,4 @@ T2C has both web and mobile apps supported at the moment. The preview is as foll
 
 - [@shouryam-kumar](https://www.github.com/shouryam-kumar)
 - [@ashutosh887](https://www.github.com/ashutosh887)
+- [@Dinki-Yaduwanshi](https://www.github.com/Dinki-Yaduwanshi)
